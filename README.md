@@ -167,9 +167,9 @@
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharanya2203&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharanya2203&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=sharanya2203&theme=github-dark-blue&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=sharanya2203&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -202,3 +202,4 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8CC9,100:0D1117&height=120&section=footer"/>
+
