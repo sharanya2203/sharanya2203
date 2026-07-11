@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Ponugoti Sharanya
 
-### 💻 💻 Software Developer | Full-Stack Developer | AI & Machine Learning Enthusiast
+### 💻 Software Developer | Full-Stack Developer | AI & Machine Learning Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies"/>
 
