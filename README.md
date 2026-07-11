@@ -56,18 +56,12 @@
 ## 💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java" height="55"/>
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
-<img src="https://skillicons.dev/icons?i=c" height="55"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="55"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
 </p>
 
 <p align="center">
 
-`Java` &nbsp;&nbsp;&nbsp;
-`Python` &nbsp;&nbsp;&nbsp;
-`C` &nbsp;&nbsp;&nbsp;
-`C++`
+`Java` • `Python` • `C` • `C++`
 
 </p>
 
@@ -76,18 +70,12 @@
 ## 🌐 Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html" height="55"/>
-<img src="https://skillicons.dev/icons?i=css" height="55"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="55"/>
-<img src="https://skillicons.dev/icons?i=react" height="55"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
 </p>
 
 <p align="center">
 
-`HTML5` &nbsp;&nbsp;&nbsp;
-`CSS3` &nbsp;&nbsp;&nbsp;
-`JavaScript` &nbsp;&nbsp;&nbsp;
-`React.js`
+`HTML5` • `CSS3` • `JavaScript` • `React.js`
 
 </p>
 
@@ -96,16 +84,12 @@
 ## ⚙ Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
-<img src="https://skillicons.dev/icons?i=express" height="55"/>
-<img src="https://skillicons.dev/icons?i=flask" height="55"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 </p>
 
 <p align="center">
 
-`Node.js` &nbsp;&nbsp;&nbsp;
-`Express.js` &nbsp;&nbsp;&nbsp;
-`Flask`
+`Node.js` • `Express.js` • `Flask`
 
 </p>
 
@@ -114,14 +98,12 @@
 ## 🗄 Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres" height="55"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
 <p align="center">
 
-`PostgreSQL` &nbsp;&nbsp;&nbsp;
-`MySQL`
+`PostgreSQL` • `MySQL`
 
 </p>
 
@@ -130,16 +112,18 @@
 ## 🤖 AI / ML
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>
-<img src="https://cdn.simpleicons.org/keras/D00000" height="55"/>
-<img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow" height="50"/>
+
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
 </p>
 
 <p align="center">
 
-`TensorFlow` &nbsp;&nbsp;&nbsp;
-`Keras` &nbsp;&nbsp;&nbsp;
-`OpenCV`
+`TensorFlow` • `Keras` • `OpenCV`
 
 </p>
 
@@ -148,27 +132,22 @@
 ## 🛠 Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git" height="55"/>
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
-<img src="https://cdn.simpleicons.org/tableau/E97627" height="55"/>
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="55"/>
-<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
 </p>
 
 <p align="center">
 
-`Git` &nbsp;&nbsp;&nbsp;
-`GitHub` &nbsp;&nbsp;&nbsp;
-`VS Code` &nbsp;&nbsp;&nbsp;
-`Tableau` &nbsp;&nbsp;&nbsp;
-`Microsoft Excel` &nbsp;&nbsp;&nbsp;
-`Streamlit`
+`Git` • `GitHub` • `VS Code` • `Tableau` • `Microsoft Excel` • `Streamlit`
 
 </p>
-
----
-
 # 🏆 Achievements
 
 🏅 **Global Rank 15,053** – TCS CodeVita Season 13
