@@ -167,7 +167,7 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sharanya2203&theme=tokyonight&show_icons=true&hide_border=true&cache_seconds=86400"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sharanya2203&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=sharanya2203&theme=tokyonight&hide_border=true"/>
 
