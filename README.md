@@ -148,7 +148,7 @@
 `Git` • `GitHub` • `VS Code` • `Tableau` • `Microsoft Excel` • `Streamlit`
 
 </p>
-```
+---
 
 # 🏆 Achievements
 
