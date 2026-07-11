@@ -148,6 +148,8 @@
 `Git` • `GitHub` • `VS Code` • `Tableau` • `Microsoft Excel` • `Streamlit`
 
 </p>
+```
+
 # 🏆 Achievements
 
 🏅 **Global Rank 15,053** – TCS CodeVita Season 13
