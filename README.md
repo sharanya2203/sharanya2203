@@ -167,11 +167,24 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sharanya2203&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharanya2203&theme=github_dark"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=sharanya2203&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=sharanya2203&theme=github-dark-blue&hide_border=true"/>
 
 </p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharanya2203&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sharanya2203&theme=github_dark"/>
+
+</p>
+
 
 ---
 
