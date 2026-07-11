@@ -167,7 +167,7 @@
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharanya2203&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharanya2203&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=sharanya2203&theme=github-dark-blue&hide_border=true"/>
 
