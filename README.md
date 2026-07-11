@@ -43,46 +43,12 @@
 
 ---
 
+
 # 🚀 Featured Projects
 
-## 🌿 Crop Disease Detection System
-
-- CNN model trained on **1000+ leaf images**
-- **38 disease classes**
-- **95% prediction accuracy**
-- Flask backend
-- Disease prediction & treatment recommendation
-
-**Tech Stack**
-
-`Python` • `TensorFlow` • `Keras` • `Flask` • `HTML` • `CSS`
-
----
-
-## 💰 FinTech Expense Tracker
-
-- Secure JWT Authentication
-- Income & Expense Management
-- Budget Tracking
-- REST APIs
-- Interactive Dashboard
-
-**Tech Stack**
-
-`React.js` • `Node.js` • `Express.js` • `PostgreSQL`
-
----
-
-## 🎨 Black & White Image Colorization
-
-- AI-powered Image Colorization
-- OpenCV Image Processing
-- Deep Learning Model
-- Streamlit Interface
-
-**Tech Stack**
-
-`Python` • `TensorFlow` • `OpenCV` • `Streamlit`
+- 🌿 **AI-Powered Crop Disease Detection & Treatment Recommendation System**
+- 💰 **FinTrack – Personal Finance & Expense Management System**
+- 🎨 **Deep Learning-Based Image Colorization System**
 
 ---
 
@@ -177,27 +143,7 @@
 
 ---
 
-# 📜 Certifications
 
-✔ SQL (Basic) – HackerRank
-
-✔ Software Development Internship – SkillCraft Technology
-
-✔ Programming Essentials in C – Cisco Networking Academy
-
-✔ Introduction to SQL – Simplilearn
-
-✔ Python Programming – Great Learning
-
-✔ C for Beginners – Great Learning
-
-✔ GenAI for Everyone – Analytics Vidhya
-
-✔ Generative AI with AWS – Analytics Vidhya
-
-✔ Building Data Analyst AI Agent – Analytics Vidhya
-
----
 
 # 📊 GitHub Stats
 
