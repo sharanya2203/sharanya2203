@@ -9,10 +9,10 @@ Building scalable web applications and intelligent AI solutions while continuous
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/sharanya-ponugoti-p22">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://portfolio-flax-nu-dv1qscan09.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:sharanyaponu6@gmail.com">
@@ -125,7 +125,7 @@ An AI-powered application that transforms grayscale images into realistic colore
 
 - 📧 **Email:** sharanyaponu6@gmail.com
 - 💼 **LinkedIn:** https://www.linkedin.com/in/sharanya-ponugoti-p22
-- 🌐 **Portfolio:** https://portfolio-flax-nu-dv1qscan09.vercel.app/ portfolio
+- 🌐 **Portfolio:** https://portfolio-flax-nu-dv1qscan09.vercel.app/
 
 ---
 
